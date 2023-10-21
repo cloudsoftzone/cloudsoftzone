@@ -25,15 +25,14 @@
     </a>
     &nbsp;&nbsp;
     <a href="https://www.cloudsoftzone.com/category/laravel" rel="nofollow">
-        <img alt="Next.js" src="https://camo.githubusercontent.com/1e3703a1bbea453687ca419d5cbb59419ac23d2f881a9b256ccccae723a504b5/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d4e6578742e6a732d3030303030303f7374796c653d666f722d7468652d6261646765266c6f676f3d6e6578742e6a73266c6f676f436f6c6f723d7768697465" data-canonical-src="https://img.shields.io/badge/-Next.js-000000?style=for-the-badge&amp;logo=next.js&amp;logoColor=white" style="max-width: 100%;">
+        <img alt="Laravel" src="https://img.shields.io/badge/Laravel-FB503B?style=for-the-badge&logo=laravel&logoColor=white" style="max-width: 100%;">
     </a>
     &nbsp;&nbsp;
     <a href="https://www.cloudsoftzone.com/category/mysql" rel="nofollow">
-        <img alt="Git" src="https://camo.githubusercontent.com/324ecb8e3920e6c4826b60f2afd553c8a1b6ea87782030de0eaa65bb8c8b2919/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d4769742d4630353033323f7374796c653d666f722d7468652d6261646765266c6f676f3d676974266c6f676f436f6c6f723d7768697465" data-canonical-src="https://img.shields.io/badge/-Git-F05032?style=for-the-badge&amp;logo=git&amp;logoColor=white" style="max-width: 100%;">
+        <img alt="mysql" src="https://img.shields.io/badge/MySQL-E97B00?style=for-the-badge&logo=mysql&logoColor=004E66" style="max-width: 100%;">
     </a>
 </div>
-<h2>👨‍💻 Software Engineer based in New Delhi, India 🇮🇳</h2>
- <p>🏢 Working in a Private Company</p>
+
  <p>🚀 Passionate about coding and problem-solving</p>
  
  <h3>🔗 Connect with me:</h3>
